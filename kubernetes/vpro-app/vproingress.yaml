@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.tcapp.xyz
+  - host: vproeks2.tcapp.xyz
     http:
       paths:
       - path: /
