@@ -45,6 +45,10 @@ ________________________________________
 •	Helm chart implementation
 •	Auto-scaling with HPA
 ________________________________________
+📊 Architecture
+GitHub → Jenkins → Maven → SonarQube → Docker → ECR → ECS / EKS → Users
+________________________________________
+
 👩🏽‍💻 Author
 Tina Collins
 ________________________________________
