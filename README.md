@@ -48,7 +48,11 @@ ________________________________________
 📊 Architecture
 GitHub → Jenkins → Maven → SonarQube → Docker → ECR → ECS / EKS → Users
 ________________________________________
-
+📊 Architecture
+GitHub → Jenkins → Maven → SonarQube → Docker → ECR → ECS / EKS → Users
+________________________________________
 👩🏽‍💻 Author
+
 Tina Collins
+DevOps Engineer | Cloud Enthusiast | Lifelong Learner
 ________________________________________
