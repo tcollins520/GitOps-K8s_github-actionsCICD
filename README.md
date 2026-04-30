@@ -1,7 +1,11 @@
 ☸️ Kubernetes Deployment on AWS EKS
 📌 Project Overview
 This project demonstrates deploying a containerized Java application to Amazon EKS using Kubernetes manifests.
-It extends Jenkins CI/CD pipeline by enabling deployment to a Kubernetes-based environment.
+It extends GitHub actions CI/CD pipeline by enabling deployment to a Kubernetes-based environment.
+________________________________________
+📊 Architecture
+GitHub → GitHub actions → Maven → SonarQube → Docker → ECR → EKS → Users
+________________________________________
 # Prerequisites
 - JDK 11
 - Maven 3.9
