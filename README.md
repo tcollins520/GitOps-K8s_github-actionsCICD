@@ -3,7 +3,7 @@
 This project demonstrates deploying a containerized Java application to Amazon EKS using Kubernetes manifests.
 It extends Jenkins CI/CD pipeline by enabling deployment to a Kubernetes-based environment.
 # Prerequisites
-- JDK 21
+- JDK 11
 - Maven 3.9
 - MySQL 8 
 ________________________________________
